@@ -1,0 +1,1 @@
+pip install gradio openai-whisper torch torchvision torchaudio librosa Levenshtein pronouncing transformers
